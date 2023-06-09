@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mikiyassisay009@gmail.com**
 
-- 📄 Know about my experiences [•https://bit.ly/3nkAfPE]
+
 
 
 <p align="left">

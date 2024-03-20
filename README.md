@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **web-development**
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **web 3** 
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://www.linkedin.com/in/mikiyas-sisay/)**
 
